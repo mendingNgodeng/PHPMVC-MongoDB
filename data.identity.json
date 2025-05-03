@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6804e4989942dd631bb71236"
+  },
+  "name": "Helm OTaku",
+  "umur": "19",
+  "email": "Otaku123@gmai.com"
+},
+{
+  "_id": {
+    "$oid": "6804f015b54c63d71c306ef9"
+  },
+  "name": "Burung Merpati",
+  "umur": "43",
+  "email": "Merpati@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6807605eefc642df3d02f1e3"
+  },
+  "name": "Mashdarul Mawahib",
+  "umur": "34",
+  "email": "darul@gmail.co.id"
+}]
